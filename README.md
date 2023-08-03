@@ -1,5 +1,5 @@
 
-> Open this page at [https://kwanghoon.github.io/humidity-monitoring-pot/](https://kwanghoon.github.io/humidity-monitoring-pot/)
+> Open this page at [https://github.com/kwanghoon/humidity-monitoring-pot/](https://kwanghoon.github.io/humidity-monitoring-pot/)
 
 ## Use as Extension
 
